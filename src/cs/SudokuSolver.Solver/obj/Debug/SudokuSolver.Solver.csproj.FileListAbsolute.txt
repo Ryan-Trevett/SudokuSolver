@@ -1,0 +1,10 @@
+D:\Storage\Git\SudokuSolver\SudokuSolver.Solver\bin\Debug\SudokuSolver.Solver.dll
+D:\Storage\Git\SudokuSolver\SudokuSolver.Solver\bin\Debug\SudokuSolver.Solver.pdb
+D:\Storage\Git\SudokuSolver\SudokuSolver.Solver\obj\Debug\SudokuSolver.Solver.csprojResolveAssemblyReference.cache
+D:\Storage\Git\SudokuSolver\SudokuSolver.Solver\obj\Debug\SudokuSolver.Solver.dll
+D:\Storage\Git\SudokuSolver\SudokuSolver.Solver\obj\Debug\SudokuSolver.Solver.pdb
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.Solver\bin\Debug\SudokuSolver.Solver.dll
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.Solver\bin\Debug\SudokuSolver.Solver.pdb
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.Solver\obj\Debug\SudokuSolver.Solver.csprojResolveAssemblyReference.cache
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.Solver\obj\Debug\SudokuSolver.Solver.dll
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.Solver\obj\Debug\SudokuSolver.Solver.pdb

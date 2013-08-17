@@ -1,0 +1,13 @@
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\bin\Debug\SudokuSolver.GUI.exe.config
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\bin\Debug\SudokuSolver.GUI.exe
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\bin\Debug\SudokuSolver.GUI.pdb
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\SudokuSolver.GUI.csprojResolveAssemblyReference.cache
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\MainWindow.baml
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\MainWindow.g.cs
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\App.g.cs
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\SudokuSolver.GUI_MarkupCompile.cache
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\SudokuSolver.GUI.g.resources
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\SudokuSolver.GUI.Properties.Resources.resources
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\SudokuSolver.GUI.csproj.GenerateResource.Cache
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\SudokuSolver.GUI.exe
+D:\Storage\Git\SudokuSolver\src\cs\SudokuSolver.GUI\obj\Debug\SudokuSolver.GUI.pdb

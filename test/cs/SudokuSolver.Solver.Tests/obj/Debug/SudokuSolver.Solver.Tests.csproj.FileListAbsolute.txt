@@ -1,0 +1,5 @@
+D:\Storage\Git\SudokuSolver\test\cs\SudokuSolver.Solver.Tests\bin\Debug\SudokuSolver.Solver.Tests.dll
+D:\Storage\Git\SudokuSolver\test\cs\SudokuSolver.Solver.Tests\bin\Debug\SudokuSolver.Solver.Tests.pdb
+D:\Storage\Git\SudokuSolver\test\cs\SudokuSolver.Solver.Tests\obj\Debug\SudokuSolver.Solver.Tests.csprojResolveAssemblyReference.cache
+D:\Storage\Git\SudokuSolver\test\cs\SudokuSolver.Solver.Tests\obj\Debug\SudokuSolver.Solver.Tests.dll
+D:\Storage\Git\SudokuSolver\test\cs\SudokuSolver.Solver.Tests\obj\Debug\SudokuSolver.Solver.Tests.pdb
